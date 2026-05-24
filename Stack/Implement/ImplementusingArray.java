@@ -1,5 +1,6 @@
 
 public class ImplementusingArray {
+    // Stack using Array
 
      static class stackArray{
         int arr[] = new int[5];

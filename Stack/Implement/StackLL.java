@@ -1,4 +1,5 @@
 public class StackLL {
+    //  Stack using Linked List
 
     static class Node {
 
